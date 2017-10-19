@@ -14,6 +14,8 @@
 # =======================================================================
 
 #  RNN 模型层  NLP的相关知识
+# TF-IDF 算法 Term Frequency:衡量一个term在文档中出现得有多频繁。
+# IDF: Inverse Document Frequency 衡量一个term有多重要。
 
 import tensorflow as tf
 from tensorflow.contrib import rnn
